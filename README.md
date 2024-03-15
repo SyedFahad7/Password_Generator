@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator 🔐
 
 A simple Java application to generate strong and complex passwords for various accounts securely.
 
